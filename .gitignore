@@ -1,1 +1,6 @@
 *.csv
+!data/holidays_events.csv
+!data/items.csv
+!data/oil.csv
+!data/stores.csv
+!data/transactions.csv
